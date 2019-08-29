@@ -1,0 +1,12 @@
+{
+    "name": "express",
+    "description": "this is my first project express",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "4.x"
+    },
+    "devDependencies": {
+        "@babel/plugin-syntax-dynamic-import": "^7.2.0"
+    }
+}
